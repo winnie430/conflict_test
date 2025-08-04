@@ -1,0 +1,4 @@
+*** Settings ***
+Resource    ./TMD-001.txt
+Resource    ./TMD-002.txt
+Resource    ./TMD-003.txt
