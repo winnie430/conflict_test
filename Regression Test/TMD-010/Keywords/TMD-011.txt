@@ -1,0 +1,6 @@
+*** Settings ***
+Resource    ../Variables.txt
+
+*** Keywords ***
+Log Message 011
+    Log    ${message011}
