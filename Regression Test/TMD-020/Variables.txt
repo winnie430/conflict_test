@@ -1,0 +1,2 @@
+*** Variables ***
+${message021} =    This is an example changed test case for TMD-021
