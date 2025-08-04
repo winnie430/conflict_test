@@ -4,3 +4,4 @@ Resource    ../Variables.txt
 *** Keywords ***
 Log Message 023
     Log    ${message023}
+    Log    ${message023}

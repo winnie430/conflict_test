@@ -1,4 +1,4 @@
 *** Settings ***
 Resource    ./TMD-021.txt
-Resource    ./TMD-022.txt
 Resource    ./TMD-023.txt
+Resource    ./TMD-022.txt
