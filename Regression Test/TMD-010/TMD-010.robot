@@ -11,3 +11,7 @@ Example Test Case 011
 Example Test Case 013
     [Tags]    TMD-013
     Log Message 013
+
+Example Test Case 012
+    [Tags]    TMD-012
+    Log Message 012
