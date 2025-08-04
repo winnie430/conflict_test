@@ -1,3 +1,4 @@
 *** Variables ***
+${message011} =    This is an example test case for TMD-011
 ${message013} =    This is an example test case for TMD-013
-${message012} =    This is an example test case for TMD-012
+${message012} =    This is an changed example test case for TMD-012
