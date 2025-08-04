@@ -1,2 +1,3 @@
 *** Settings ***
 Resource    ./TMD-021.txt
+Resource    ./TMD-023.txt
