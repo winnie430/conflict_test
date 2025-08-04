@@ -7,3 +7,7 @@ Resource    ./Variables.txt
 Example Test Case 011
     [Tags]    TMD-011
     Log Message 011
+
+Example Test Case 013
+    [Tags]    TMD-013
+    Log Message 013
